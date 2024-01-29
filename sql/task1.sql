@@ -1,4 +1,4 @@
-//KAMELIN PAJANG
+--KAMELIN PAJANG
 -- Problem 1: Retrieve all products in the Sports category
 -- Write an SQL query to retrieve all products in a specific category.
 SELECT 
