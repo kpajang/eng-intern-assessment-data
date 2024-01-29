@@ -1,4 +1,4 @@
-//KAMELIN PAJANG
+--KAMELIN PAJANG
 -- Problem 5: Retrieve the products with the highest average rating
 -- Write an SQL query to retrieve the products with the highest average rating.
 -- The result should include the product ID, product name, and the average rating.
